@@ -31,13 +31,11 @@ You can download the SQL challenge document [Here](https://github.com/AmishaKaka
 13. Found the top three revenue-generating pizza types within each category.
 
 **Key Insights :**
-**Business Activity:** 
-The total number of orders provides a clear picture of business activity.
-**Financial Performance:** 
-Total revenue and top revenue-generating pizzas highlight financial performance.
-**Customer Preferences:** Most common pizza sizes and top-ordered pizza types reveal customer preferences.
-**Operational Optimization:** Distribution of orders by hour and category-wise distributions can help in optimizing operations.
-**Growth Analysis:** Cumulative revenue analysis shows the business growth trajectory over time.
+1. **Business Activity:** The total number of orders provides a clear picture of business activity.
+2. Financial Performance: Total revenue and top revenue-generating pizzas highlight financial performance.
+3. Customer Preferences: Most common pizza sizes and top-ordered pizza types reveal customer preferences.
+4. Operational Optimization: Distribution of orders by hour and category-wise distributions can help in optimizing operations.
+5. Growth Analysis: Cumulative revenue analysis shows the business growth trajectory over time.
 
 **SQL Concepts Used to solve this challenge :**
 
